@@ -10,7 +10,7 @@ b) Nano 328P Expansion Adapter Breakout Board IO Shield (Required) <br/>
 c) HC05 Bluetooth Module (Required) <br/>
 d) SG90 Mini Servo 12 pieces (Required)<br/>
 e) Lithium Ion Battery 2 pieces<br/>
-f)Battery Holder with male port<br/>
+f)Battery Holder with DC Jack<br/>
 g) Jumper Wires<br/>
 
 To control this using android device, you will need the following app: https://play.google.com/store/apps/details?id=braulio.calle.bluetoothRCcontroller.
