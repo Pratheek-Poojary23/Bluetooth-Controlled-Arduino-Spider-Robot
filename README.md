@@ -19,5 +19,5 @@ To control this using android device, you will need the following app: https://p
 
 
 
-<img src="[https://your-image-url.type](https://github.com/pratheekpoojary23/Bluetooth-Controlled-Arduino-Spider-Robot/assets/159915259/9c7a07fb-2d9f-45f1-ad61-80be9d7e89ad)" width="100" height="100">
+<img src="[https://your-image-url.type](https://github.com/pratheekpoojary23/Bluetooth-Controlled-Arduino-Spider-Robot/assets/159915259/9c7a07fb-2d9f-45f1-ad61-80be9d7e89ad)" width="150" height="150">
 
