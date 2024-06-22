@@ -5,7 +5,7 @@ It's the arduino Nano used code for a app controlled spider robot.
 You can download the STL file above in Spider Model Folder.It is provided with the images of the each part and assembly.We 3D printed these parts.
 
 I have used the following components in this project:
-a) Arduino Nano (Required) 
+a) Arduino Nano (Required)  <br/>
 b) Nano 328P Expansion Adapter Breakout Board IO Shield (Required) 
 c) HC05 Bluetooth Module (Required) 
 d) SG90 Mini Servo 12 pieces (Required)
