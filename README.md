@@ -15,3 +15,5 @@ g) Jumper Wires
 
 To control this using android device, you will need the following app: https://play.google.com/store/apps/details?id=braulio.calle.bluetoothRCcontroller.
 
+#Methodology
+
