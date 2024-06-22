@@ -17,4 +17,4 @@ To control this using android device, you will need the following app: https://p
 
 ### Methodology
 
-![Uploading Screenshot 2024-03-01 174508.png…]()
+
