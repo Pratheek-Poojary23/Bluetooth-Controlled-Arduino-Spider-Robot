@@ -15,7 +15,7 @@ g) Jumper Wires<br/>
 
 To control this using android device, you will need the following app: https://play.google.com/store/apps/details?id=braulio.calle.bluetoothRCcontroller.
 
-<img src="https://github.com/pratheekpoojary23/Bluetooth-Controlled-Arduino-Spider-Robot/blob/main/New%20folder/Screenshot%202024-04-09%20072950.png">
+<img src="https://github.com/pratheekpoojary23/Bluetooth-Controlled-Arduino-Spider-Robot/blob/main/New%20folder/Screenshot%202024-04-09%20072950.png" height="700" width="500">
 
 
 
